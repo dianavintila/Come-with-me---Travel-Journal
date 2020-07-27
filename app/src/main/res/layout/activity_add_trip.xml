@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+<<<<<<< HEAD
+    tools:context="com.dianavintila.comewithme___traveljournal.Trip.AddTrip"
+    android:background="@drawable/air3">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/name_trip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:hint="Trip name"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:layout_margin="5dp"
+        android:textSize="18dp" />
+
+        <EditText
+            android:id="@+id/destination"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/adamina"
+            android:hint="Destination"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="18dp" />
+
+
+        <RadioGroup
+            android:id="@+id/radiogroup"
+            android:layout_width="match_parent"
+            android:layout_height="132dp"
+            android:layout_margin="5dp">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/navyblue"
+                android:fontFamily="@font/adamina"
+                android:text="City Break"
+                android:textColorHint="#F6F6F6" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="43dp"
+                android:buttonTint="@color/navyblue"
+                android:fontFamily="@font/adamina"
+                android:text="Sea Side"
+                android:textColorHint="#F6F6F6" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/navyblue"
+                android:fontFamily="@font/adamina"
+                android:text="Mountains"
+                android:textColorHint="#F6F6F6" />
+
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tv_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="Price"
+                android:fontFamily="@font/adamina"
+                android:textColor="@color/black"
+                android:textSize="18dp"/>
+
+            <com.xw.repo.BubbleSeekBar
+                android:id="@+id/price_seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:bsb_bubble_color="@color/babyblue"
+                app:bsb_bubble_text_color="@color/black"
+                app:bsb_second_track_color="@color/babyblue"
+                app:bsb_max="10000"
+                app:bsb_min="0"
+                app:bsb_progress="100" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/startdate"
+                android:layout_width="0dp"
+                android:layout_height="36dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:onClick="onClickStartDate"
+                android:background="@color/turquoiseneon"
+                android:text="Start Date" />
+
+            <Button
+                android:id="@+id/enddate"
+                android:layout_width="0dp"
+                android:layout_height="36dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:onClick="onClickEndDate"
+                android:background="@color/turquoiseneon"
+                android:text="End Date"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_startdate"
+                android:layout_width="0dp"
+                android:layout_height="36dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@color/babyblue"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/tv_enddate"
+                android:layout_width="0dp"
+                android:layout_height="36dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@color/babyblue"
+                android:textColor="@color/black" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RatingBar
+                android:id="@+id/ratingbar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:clickable="true"
+                android:stepSize="0.5"
+                android:theme="@style/RatingBar"/>
+
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/add_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/add_image"
+            android:clickable="true"
+            android:gravity="center"
+            android:layout_gravity="center" />
+
+        <Button
+            android:id="@+id/button_savetrip"
+            android:layout_width="452dp"
+            android:layout_height="match_parent"
+            android:background="@color/babyblue"
+            android:gravity="center"
+            android:clickable="true"
+            android:text="Save trip" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+</RelativeLayout>
+=======
+<<<<<<< HEAD
+    tools:context="com.dianavintila.comewithme___traveljournal.User.AddTrip"
+=======
+    tools:context="com.dianavintila.comewithme___traveljurnal.User.AddTrip"
+>>>>>>> fa2d614d6715bef9a385efeebea8f5a8c7e817b9
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="adamina"
+        android:padding="8dp"
+        android:text="Location"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textSize="24dp" />
+
+
+
+</LinearLayout>
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba

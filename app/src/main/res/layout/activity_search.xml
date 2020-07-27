@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+<<<<<<< HEAD
+    android:background="@drawable/breathe_background"
+    tools:context="com.dianavintila.comewithme___traveljournal.Trip.Search">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/search_recycler"
+        android:layout_margin="20dp"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content" />
+=======
+<<<<<<< HEAD
+    tools:context="com.dianavintila.comewithme___traveljournal.User.Search">
+=======
+    tools:context="com.dianavintila.comewithme___traveljurnal.User.Search">
+>>>>>>> fa2d614d6715bef9a385efeebea8f5a8c7e817b9
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textSize="20sp"
+        android:text="Search Fragment"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+</androidx.drawerlayout.widget.DrawerLayout>

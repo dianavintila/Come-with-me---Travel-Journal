@@ -1,0 +1,63 @@
+{
+  "project_info": {
+<<<<<<< HEAD
+    "project_number": "361511071533",
+    "firebase_url": "https://come-with-me-----travel-jurnal.firebaseio.com",
+    "project_id": "come-with-me-----travel-jurnal",
+    "storage_bucket": "come-with-me-----travel-jurnal.appspot.com"
+=======
+    "project_number": "1082368514964",
+    "firebase_url": "https://come-with-me---travel-journal.firebaseio.com",
+    "project_id": "come-with-me---travel-journal",
+    "storage_bucket": "come-with-me---travel-journal.appspot.com"
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+  },
+  "client": [
+    {
+      "client_info": {
+<<<<<<< HEAD
+        "mobilesdk_app_id": "1:361511071533:android:ba48b1e64cc5aea109ada4",
+=======
+        "mobilesdk_app_id": "1:1082368514964:android:d38b012e35d9834c380d81",
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+        "android_client_info": {
+          "package_name": "com.dianavintila.comewithme___traveljournal"
+        }
+      },
+      "oauth_client": [
+        {
+<<<<<<< HEAD
+          "client_id": "361511071533-tp9d29jvh4mt58988dclt508e468o6lm.apps.googleusercontent.com",
+=======
+          "client_id": "1082368514964-in8444p5kob5l3rcb7votrmah9m9e3eb.apps.googleusercontent.com",
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+<<<<<<< HEAD
+          "current_key": "AIzaSyCCkWqIwyL-fwVb3QrAaJzYSMSa2r7Iadw"
+=======
+          "current_key": "AIzaSyA4wgT4Lc-5A_FUxwIy-EuYCfceHELQeoU"
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+<<<<<<< HEAD
+              "client_id": "361511071533-tp9d29jvh4mt58988dclt508e468o6lm.apps.googleusercontent.com",
+=======
+              "client_id": "1082368514964-in8444p5kob5l3rcb7votrmah9m9e3eb.apps.googleusercontent.com",
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

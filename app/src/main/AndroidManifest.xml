@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dianavintila.comewithme___traveljournal">
+<<<<<<< HEAD
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+=======
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+<<<<<<< HEAD
+        <activity android:name=".Trip.AddTrip"/>
+        <activity android:name=".Trip.Share" />
+        <activity android:name=".Trip.AboutUs" />
+        <activity android:name=".Trip.Contact" />
+        <activity android:name=".Trip.Search" />
+        <activity android:name=".Trip.UserDashboard" />
+=======
+        <activity android:name=".User.Share" />
+        <activity android:name=".User.AboutUs" />
+        <activity android:name=".User.Contact" />
+        <activity android:name=".User.Search" />
+        <activity android:name=".User.UserDashboard" />
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+        <activity android:name=".Common.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

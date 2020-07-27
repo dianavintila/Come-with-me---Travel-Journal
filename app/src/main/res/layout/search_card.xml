@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="8dp"
+    android:layout_margin="5sp">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:padding="10dp"
+        android:background="@drawable/green">
+
+        <ImageView
+            android:id="@+id/s_image"
+            android:layout_width="171dp"
+            android:layout_height="198dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/mcdonalds_icon" />
+
+        <LinearLayout
+            android:layout_width="209dp"
+            android:layout_height="195dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="11dp"
+            android:layout_marginLeft="11dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="1dp"
+            android:layout_marginRight="1dp"
+            android:layout_toEndOf="@+id/s_image"
+            android:layout_toRightOf="@+id/s_image"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/s_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp"
+                android:layout_toRightOf="@id/s_image"
+                android:fontFamily="@font/adamina"
+                android:padding="5dp"
+                android:text="Trip name"
+                android:textColor="@color/white"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/s_dest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/s_title"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp"
+                android:layout_toRightOf="@id/mv_image"
+                android:fontFamily="@font/adamina"
+                android:padding="5dp"
+                android:text="Destination"
+                android:textColor="@color/white" />
+
+
+            <TextView
+                android:id="@+id/s_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp"
+                android:padding="5dp"
+                android:text="Type"
+                android:textColor="@color/white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp"
+                android:orientation="horizontal"
+                android:textColor="@color/black">
+
+                <TextView
+                    android:id="@+id/s_price"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:text="Price"
+                    android:textColor="@color/white" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="18dp"
+                    android:src="@drawable/euro" />
+
+                <TextView
+                    android:id="@+id/s_rating"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_weight="1"
+                    android:text="Rating"
+                    android:textColor="@color/white" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="18dp"
+                    android:src="@drawable/icon_star" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

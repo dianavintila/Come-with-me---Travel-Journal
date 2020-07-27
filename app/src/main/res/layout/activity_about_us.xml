@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+<<<<<<< HEAD
+    tools:context="com.dianavintila.comewithme___traveljournal.Trip.AboutUs"
+=======
+<<<<<<< HEAD
+    tools:context="com.dianavintila.comewithme___traveljournal.User.AboutUs"
+=======
+    tools:context="com.dianavintila.comewithme___traveljurnal.User.AboutUs"
+>>>>>>> fa2d614d6715bef9a385efeebea8f5a8c7e817b9
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+    android:background="@drawable/aboutuss"
+    android:id="@+id/nav_aboutus">
+
+    <TextView
+
+        android:layout_width="278dp"
+        android:layout_height="95dp"
+        android:fontFamily="@font/adamina"
+        android:text="    My name is Vintila Diana and I am a third year student of Bachelor of Science in Systems Engineering.   "
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.443"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.372" />
+
+    <TextView
+        android:layout_width="301dp"
+        android:layout_height="95dp"
+        android:fontFamily="@font/adamina"
+        android:maxLength="120"
+        android:maxLines="5"
+        android:text="  This is my first Android project and it   opened a new world for me about "
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.754"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.743" />
+
+    <TextView
+        android:layout_width="203dp"
+        android:layout_height="80dp"
+        android:fontFamily="@font/adamina"
+        android:maxLength="120"
+        android:maxLines="5"
+        android:text="what it means to be a "
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.82"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.784" />
+
+    <TextView
+        android:layout_width="254dp"
+        android:layout_height="87dp"
+        android:fontFamily="@font/adamina"
+        android:maxLength="120"
+        android:maxLines="5"
+        android:text="mobile developer."
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.83"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.82" />
+</androidx.constraintlayout.widget.ConstraintLayout>

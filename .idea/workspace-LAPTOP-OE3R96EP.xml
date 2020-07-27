@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d03977eb-8d7d-42ba-9d07-778eabec1623" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/User/AboutUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/User/AddTrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/User/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/User/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/User/Share.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/dianavintila/comewithme___cityguide/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/dianavintila/comewithme___traveljournal/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/Common/OnBoarding.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/Common/OnBoarding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/Common/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/Common/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/HelperClases/HomeAdapter/CategoriesAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/HelperClases/HomeAdapter/CategoriesAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/HelperClases/HomeAdapter/CategoriesHelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/HelperClases/HomeAdapter/CategoriesHelperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/HelperClases/HomeAdapter/FeaturedAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/HelperClases/HomeAdapter/FeaturedAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/HelperClases/HomeAdapter/FeaturedHelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/HelperClases/HomeAdapter/FeaturedHelperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/HelperClases/HomeAdapter/MostViewedAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/HelperClases/HomeAdapter/MostViewedAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/HelperClases/HomeAdapter/MostViewedHelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/HelperClases/HomeAdapter/MostViewedHelperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/HelperClases/SliderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/HelperClases/SliderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___cityguide/User/UserDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dianavintila/comewithme___traveljournal/User/UserDashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/bottom_anim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/bottom_anim.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/side_anim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/anim/side_anim.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/add.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/add.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/airport_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/airport_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/card_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/card_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/card_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/card_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/card_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/hotel_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hotel_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/iaddlocation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/iaddlocation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ilock.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ilock.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/irate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/irate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/irestaurant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/irestaurant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/isearch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/isearch.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ishare.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ishare.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/iuser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/iuser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/menu_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/menu_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/museum_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/museum_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/restaurant_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/restaurant_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/search_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/search_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/shop_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shop_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/skip_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/skip_icon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/font/adamina.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/font/adamina.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/font/baloo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/font/baloo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_on_boarding.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_on_boarding.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/categories_card_design.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/categories_card_design.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/featured_card_design.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/featured_card_design.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu_header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_header.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/most_viewed_card_design.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/most_viewed_card_design.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/slides_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/slides_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/font_certs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/dianavintila/comewithme___cityguide/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/dianavintila/comewithme___traveljournal/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="8_Foldable_API_30" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f5NWcVGr8jxQjhLrGNSgRKH8aU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Come-with-me-Travel-Journal" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\daian\OneDrive\Desktop\gitprojects\Come-with-me\app" />
+      <recent name="C:\Users\daian\OneDrive\Desktop\gitprojects\Come-with-me\app\src\main\java\com\dianavintila\comewithme___traveljournal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d03977eb-8d7d-42ba-9d07-778eabec1623" name="Default Changelist" comment="" />
+      <created>1595504025974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595504025974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="10" key="FileChooserDialogImpl" timestamp="1595507321867">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="695" y="10" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1595507321867" />
+    <state width="1236" height="155" key="GridCell.Tab.0.bottom" timestamp="1595505617751">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1595505617751" />
+    <state width="1236" height="155" key="GridCell.Tab.0.center" timestamp="1595505617750">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1595505617750" />
+    <state width="1236" height="155" key="GridCell.Tab.0.left" timestamp="1595505617749">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1595505617749" />
+    <state width="1236" height="155" key="GridCell.Tab.0.right" timestamp="1595505617750">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1236" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1595505617750" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1595504500313">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1595504500313" />
+    <state x="588" y="79" key="com.intellij.ide.util.TipDialog" timestamp="1595507303966">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="588" y="79" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1595507303966" />
+  </component>
+</project>

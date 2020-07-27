@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+<<<<<<< HEAD
+    tools:context="com.dianavintila.comewithme___traveljournal.Trip.Contact">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/aboutus"
+        android:scaleType="fitXY"
+        tools:layout_editor_absoluteX="-31dp"
+        tools:layout_editor_absoluteY="0dp" />
+=======
+    android:background="@drawable/aboutus"
+<<<<<<< HEAD
+    tools:context="com.dianavintila.comewithme___traveljournal.User.Contact">
+=======
+    tools:context="com.dianavintila.comewithme___traveljurnal.User.Contact">
+>>>>>>> fa2d614d6715bef9a385efeebea8f5a8c7e817b9
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:fontFamily="@font/adamina"
+        android:text="Find more about us on:"
+        android:textColor="@color/black"
+        android:textSize="24dp"
+<<<<<<< HEAD
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.56"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.285" />
+=======
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.344" />
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+
+    <Button
+        android:id="@+id/button_insta"
+        android:layout_width="69dp"
+        android:layout_height="71dp"
+        android:background="@drawable/insta"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
+        app:layout_constraintHorizontal_bias="0.277"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.419" />
+=======
+        app:layout_constraintHorizontal_bias="0.251"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.478" />
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+
+    <Button
+        android:id="@+id/button_fb"
+        android:layout_width="69dp"
+        android:layout_height="71dp"
+        android:background="@drawable/fb"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< HEAD
+        app:layout_constraintHorizontal_bias="0.561"
+        app:layout_constraintStart_toEndOf="@+id/button_insta"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.419" />
+=======
+        app:layout_constraintStart_toEndOf="@+id/button_insta"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.478" />
+>>>>>>> 7c8d2d99d9caaaac8bb2c703820930fb41f5baba
+
+</androidx.constraintlayout.widget.ConstraintLayout>
